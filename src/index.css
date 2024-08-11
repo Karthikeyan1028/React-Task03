@@ -1,0 +1,33 @@
+
+
+.HeaderColor{
+  color:rgb(53, 70, 168);
+  font-weight: bolder;
+}
+input{
+  height:50px;
+  width: 200px;
+  text-align: center;
+  border: solid rgb(53, 70, 168);
+  border-radius: 10px;
+  width: 350px;
+}
+button{
+  background-color:rgb(53, 70, 168);
+  color: white;
+  padding: 10px;
+  width: 10vw;
+  border-radius: 10px;
+  font-weight: bolder;
+  margin: 0em 3em 1em 3em;
+}
+.card{
+  background-color: rgb(152, 170, 219);
+  color: black;
+}
+.content{
+  font-size: 19px;
+}
+body{
+  background-color:lightblue;
+}
